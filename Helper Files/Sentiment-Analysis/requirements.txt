@@ -81,7 +81,7 @@ jsonschema-specifications==2024.10.1
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 jupyterlab_widgets==3.0.13
-keras==3.9.0
+keras==3.12.0
 kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
 langcodes==3.5.0
 language_data==1.3.0
